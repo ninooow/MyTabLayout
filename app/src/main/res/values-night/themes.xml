@@ -1,0 +1,16 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <style name="Base.Theme.TabLayOutApp" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="colorPrimary">@color/blue</item>
+    </style>
+    <style name="Base.Theme.TabLayOutApp.WithActionBar" parent="Theme.Material3.DayNight">
+        <item name="colorPrimary">@color/blue</item>
+    </style>
+    <style name="Theme.MyCourse.WithActionBar.Options" parent="Base.Theme.TabLayOutApp.WithActionBar">
+        <item name="android:windowActionBarOverlay">false</item>
+    </style>
+    <style name="Theme.MyCourse.WithActionBar.NoOptions" parent="Base.Theme.TabLayOutApp.WithActionBar">
+        <item name="android:windowActionBarOverlay">true</item>
+    </style>
+    <style name="Theme.MyCourse" parent="Base.Theme.TabLayOutApp" />
+    <style name="Theme.MyCourse.WithActionBar" parent="Base.Theme.TabLayOutApp.WithActionBar" />
+</resources>

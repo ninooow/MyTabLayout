@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">MyTabLayout</string>
+    <string name="register">Register</string>
+    <string name="usn">Username</string>
+    <string name="mail">Email</string>
+    <string name="phone">Phone</string>
+    <string name="psw">Password</string>
+    <string name="tnc">By checking the box you agree to our <font fgcolor='#525BFF'>Terms</font> and <font fgcolor='#525BFF'>Conditions</font>.</string>
+    <string name="new_login">Already Have an Account?</string>
+    <string name="login">Login</string>
+    <string name="mau_login">Log in</string>
+    <string name="remember">Remember Me</string>
+    <string name="forget">Forget Password?</string>
+    <string name="home_page">Homepage</string>
+    <string name="new_register">New Member?</string>
+    <string name="homepage_username">Welcome back &lt; <font fgcolor='#525BFF'>Username</font> &gt;!</string>
+    <string name="homepage_email">Your <font fgcolor='#525BFF'>email</font> has been activated</string>
+    <string name="homepage_phone">Your <font fgcolor='#525BFF'>phone</font> has been registered</string>
+    <string name="fragment_register">REGISTER</string>
+    <string name="fragment_login">LOGIN</string>
+    <string name="question_home">How are you doing today?</string>
+</resources>
